@@ -3,7 +3,7 @@ Today, everybody talks about Artificial Intelligence (AI). It is growing rapidly
 
 ## Inference Engine
 
-![]()
+![inference_enine_flow](./resources/inference_flow.jpg)
 
 ### What is the Inference Engine?
 
