@@ -3,7 +3,18 @@ Today, everybody talks about Artificial Intelligence (AI). It is growing rapidly
 
 ## Inference Engine
 
+![]()
+
 ### What is the Inference Engine?
 
 - Optimized for Intel® hardware.
   - It provides hardware-based optimizations to get even further improvements from a model.
+  
+- Running the actual inference at the edge.
+  - It only works with the Intermediate Representation (IR) files.
+  - They (IR) are come from Intel® Open Model Zoo. Or we can produce them from the Model Optimizer.
+
+- Consists of a high-level API so that we can utilize on the edge application easily.
+  - It is built with C++ for faster operations.
+  - We can use the built-in Python wrapper to work with the inference engine.
+
