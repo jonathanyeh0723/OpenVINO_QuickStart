@@ -4,4 +4,4 @@ Today, everybody talks about Artificial Intelligence (AI). It is growing rapidly
 ## What is the Inference Engine?
 
 - Optimized for Intel® hardware.
- - It provides hardware-based optimizations to get even further improvements from a model.
+  - It provides hardware-based optimizations to get even further improvements from a model.
