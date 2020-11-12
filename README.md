@@ -18,3 +18,4 @@ Today, everybody talks about Artificial Intelligence (AI). It is growing rapidly
   - It is built with C++ for faster operations.
   - We can use the built-in Python wrapper to work with the inference engine.
 
+![supported](./resources/support.jpg)
