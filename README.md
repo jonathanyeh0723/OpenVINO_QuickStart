@@ -3,7 +3,7 @@ Today, everybody talks about Artificial Intelligence (AI). It is growing rapidly
 
 - What is OpenVINO?
 
-OpenVINO stands for Open Visual Inferencing and Neural Network Optimization. It is a toolkit that you can develop and deploy computer vision oriented solutions on Intel® platforms, on the Cloud or on the Edge.
+ - OpenVINO stands for Open Visual Inferencing and Neural Network Optimization. It is a toolkit that you can develop and deploy computer vision oriented solutions on Intel® platforms, on the Cloud or on the Edge.
 
 ## Inference Engine
 
